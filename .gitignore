@@ -1,0 +1,9 @@
+.idea/
+.git/
+node_modules/
+bower_components/
+public-build/
+temp/
+*.log
+Thumbs.db
+webpack.stats.json
